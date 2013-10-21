@@ -1,0 +1,39 @@
+#container{
+    margin: 0 auto;
+    width:1000px;
+    text-align: left;
+}
+
+body{
+    font-family: Comic Sans MS;
+    background-color: #eedfcc;
+}
+li{
+    list-style: none;
+}
+a{
+    color: gray;
+}
+.links{
+    color: blueviolet;
+}
+.headertd{
+    background-color: #6495ED;
+}
+#leftside{
+    float:left;
+    border-style:outset;
+    text-align: left;
+    width:230px;
+    margin:0 20px 0 0;
+}
+#rightside{
+    float:left;
+    width:740px;
+}
+#content{
+    width:730px;
+}
+table{
+    width: 720px;
+}
